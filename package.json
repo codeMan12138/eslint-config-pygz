@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-pygz",
+  "version": "1.0.0",
+  "description": "pengye eslint config for gz team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "elemefe"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElemeFE/eslint-config-elemefe.git"
+  },
+  "author": "https://github.com/codeMan12138",
+  "license": "MIT"
+}
