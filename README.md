@@ -1,48 +1,48 @@
-# eslint-config-elemefe
+# eslint-config-pygz
 
-This package provides Elemefe's base JS .eslintrc as an extensible shared config.
+This package provides pygz's base JS .eslintrc as an extensible shared config.
 
 ## Usage
 
-### eslint-config-elemefe
+### eslint-config-pygz
 
 Our default export contains all of our ESLint rules, including ECMAScript 6.
 
 First, install this package
 ```sh
-npm install --save-dev eslint-config-elemefe eslint
+npm install --save-dev eslint-config-pygz eslint
 ```
 Then add following contents to your .eslintrc file
 ```
 {
-  "extends": "elemefe"
+  "extends": "pygz"
 }
 ```
 
-### eslint-config-elemefe/legacy
+### eslint-config-pygz/legacy
 
 For some legacy project using es5.
 
 First, install this package
 ```sh
-npm install --save-dev eslint-config-elemefe eslint
+npm install --save-dev eslint-config-pygz eslint
 ```
 Then add following contents to your .eslintrc file
 ```
 {
-  "extends": "elemefe/legacy"
+  "extends": "pygz/legacy"
 }
 ```
 
-### eslint-config-elemefe/react
+### eslint-config-pygz/react
 First, install this package and necessary plugins
 ```sh
-npm install --save-dev eslint-config-elemefe eslint babel-eslint eslint-plugin-react eslint-plugin-import eslint-plugin-jsx-a11y
+npm install --save-dev eslint-config-pygz eslint babel-eslint eslint-plugin-react eslint-plugin-import eslint-plugin-jsx-a11y
 ```
 Then add following contents to your .eslintrc file
 ```
 {
-  "extends": "elemefe/react"
+  "extends": "pygz/react"
 }
 ```
 

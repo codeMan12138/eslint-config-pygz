@@ -7,13 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "eslint",
-    "elemefe"
+    "eslint"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ElemeFE/eslint-config-elemefe.git"
-  },
   "author": "https://github.com/codeMan12138",
   "license": "MIT"
 }
